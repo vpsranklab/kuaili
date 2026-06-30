@@ -12,7 +12,7 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 ---
 
-[快狸机场](https://01.kuailiyunt.cc/#/register?code=2gxG0rth)于 2026 年 2 月开始运营，是一家面向极客、跨境电商、设计师及外贸企业的新一代高端网络加速服务商。快狸以“快”为核心，以“狸”的灵动为理念，主打 VLESS 协议、企业级 IEPL 专线、三网优化加速与自研客户端一键使用，致力于提供稳定顺滑的全球互联体验。
+[快狸机场](https://shadow.kuailiaff.com/#/register?code=2gxG0rth)于 2026 年 2 月开始运营，是一家面向极客、跨境电商、设计师及外贸企业的新一代高端网络加速服务商。快狸以“快”为核心，以“狸”的灵动为理念，主打 VLESS 协议、企业级 IEPL 专线、三网优化加速与自研客户端一键使用，致力于提供稳定顺滑的全球互联体验。
 
 快狸提供 60+ 全球优质节点，当前覆盖香港、台湾、日本、新加坡、美国、英国、德国、法国、土耳其、巴西、阿根廷等地区，并计划继续拓展韩国、泰国、印尼、菲律宾、越南等节点。全线路支持 Netflix、Disney、HBO、YouTube 等流媒体解锁，以及 ChatGPT、Gemini、TikTok 等全球环境访问，高峰期也强调稳定体验与 4K 流畅播放。
 
@@ -37,7 +37,7 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 ## 🌐 官方网站
 
-[https://01.kuailicloud.cc](https://01.kuailiyunt.cc/#/register?code=2gxG0rth)
+[https://shadow.kuailiaff.com](https://shadow.kuailiaff.com/#/register?code=2gxG0rth)
 
 ## 🌍 节点地域
 
@@ -69,7 +69,6 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 ```yaml
   机场名称:快狸
-  机场网址:https://01.kuailicloud.cc
   支持的付款方式:支付宝 微信 Usdt
   机场运营时长:2026年2月
   机场简介/广告词:快狸机场是一款专为极客、跨境电商、设计师及外贸企业打造的新一代高端网络加速服务商。我们以“快”为核心，以“狸”的灵动为理念，依托顶尖的科技架构，致力于为您打破地域限制，提供如丝般顺滑的全球互联体验。
@@ -85,4 +84,4 @@ VPS World：[https://vpsworld.org/](https://vpsworld.org/)
 
 使用体验方面，快狸目前仅支持自研客户端一键使用，暂不支持第三方客户端，适合优先考虑稳定性和开箱即用体验的用户。全线路支持 Netflix、Disney、HBO、YouTube 等流媒体，以及 ChatGPT、Gemini、TikTok 等 AI 与全球环境访问；套餐从 50GB 到 1000GB 不等，价格为 15 元/月至 180 元/月，官方自荐中另提到最低 10 元/月 30GB，以及支持一次性订阅。
 
-👉 官方网站：[https://01.kuailicloud.cc](https://01.kuailiyunt.cc/#/register?code=2gxG0rth)
+👉 官方网站：[https://shadow.kuailiaff.com](https://shadow.kuailiaff.com/#/register?code=2gxG0rth)
